@@ -6,7 +6,7 @@ require (
 	github.com/pilinux/cryptoengine v0.1.10
 	github.com/sec51/convert v1.0.2
 	golang.org/x/crypto v0.38.0
-	golang.org/x/sync v0.13.0
+	golang.org/x/sync v0.14.0
 	rsc.io/qr v0.2.0
 )
 
