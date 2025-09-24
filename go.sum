@@ -1,5 +1,5 @@
-github.com/pilinux/cryptoengine v0.1.10 h1:LqpfXXsx2AEDiWuLrLn8uaQiL/vbx47L+mOKCn1LyQQ=
-github.com/pilinux/cryptoengine v0.1.10/go.mod h1:JF0S+A8GpIHiVplCnagrI/sUZgp1FsaxgJXHX4WyJ4k=
+github.com/pilinux/cryptoengine v0.1.11 h1:y2tSwZZ02UAUxlSp46vnvGq0QOnMM5SN04CM5LQTJwA=
+github.com/pilinux/cryptoengine v0.1.11/go.mod h1:6vqcdAUNjdcseRyfiYD5PaeK8nSzidXwF0APapqUJjM=
 github.com/sec51/convert v1.0.2 h1:NoKWIRARjM3rQglNypMpcXSLLqPsN/uTTzaGeqDKbeg=
 github.com/sec51/convert v1.0.2/go.mod h1:5qL/cT/oiOIvWXy2SccQ7LnacYftqqy9wdyFkTc1k2w=
 golang.org/x/crypto v0.42.0 h1:chiH31gIWm57EkTXpwnqf8qeuMUi0yekh6mT2AvFlqI=
