@@ -5,9 +5,9 @@ go 1.24.0
 require (
 	github.com/pilinux/cryptoengine v0.1.11
 	github.com/sec51/convert v1.0.2
-	golang.org/x/crypto v0.42.0
+	golang.org/x/crypto v0.43.0
 	golang.org/x/sync v0.17.0
 	rsc.io/qr v0.2.0
 )
 
-require golang.org/x/sys v0.36.0 // indirect
+require golang.org/x/sys v0.37.0 // indirect
