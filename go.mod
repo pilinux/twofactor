@@ -3,7 +3,7 @@ module github.com/pilinux/twofactor
 go 1.26.0
 
 require (
-	github.com/pilinux/cryptoengine v0.1.15
+	github.com/pilinux/cryptoengine v0.1.16
 	github.com/sec51/convert v1.0.2
 	golang.org/x/crypto v0.58.0
 	golang.org/x/sync v0.24.0
